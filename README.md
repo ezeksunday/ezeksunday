@@ -1,6 +1,6 @@
 ##  👋 Hi I am Ezekiel Akuso Sunday!  
 
-### 🎓 MSc Data Science and Information Technology 🎓  
+### 🎓 MSc Big Data Science and Technology 🎓  
 ### :: A Data Savvy, Machine Learning and AI Explorer ::  
 
 I am passionate about applying data-driven solutions to solve real-world problems  

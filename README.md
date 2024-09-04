@@ -3,7 +3,7 @@
 ### 🎓 MSc Big Data Science and Technology 🎓  
 ### :: A Data Savvy, Machine Learning and AI Explorer ::  
 
-I'm passionate about applying data-driven solutions to solve real-world problems  
+I'm passionate about turning data into actionable insights and applying data-driven solutions to solve real-world problems.  
 My journey in Data Science involve working on various projects that utilize Artificial Intelligence,  
 Machine Learning, Big Data Analysis and Visualization<br/>
 I've dedicated my time each day to enhance my technical skills and exploring emerging technologies.

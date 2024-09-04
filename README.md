@@ -5,7 +5,7 @@
 
 I am passionate about applying data-driven solutions to solve real-world problems  
 My journey in Data Science involve working on various projects that utilize Artificial Intelligence,  
-Machine Learning, Big Data Analysis and Visualization.
+Machine Learning, Big Data Analysis and Visualization<br/>
 I've dedicated my time each day to enhance my technical skills and exploring emerging technologies.
 
 ### 💻 My Skills  
